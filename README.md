@@ -1,0 +1,2 @@
+# cpp
+base c++ function
